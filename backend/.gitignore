@@ -1,0 +1,10 @@
+# Ignore environments and cache
+venv/
+env/
+__pycache__/
+
+# Ignore secrets (THIS SAVES YOUR API KEY)
+.env
+
+# Ignore the local SQLite database
+inbasket.db
